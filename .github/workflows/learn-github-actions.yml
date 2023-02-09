@@ -14,4 +14,4 @@ jobs:
   print-hello-world:
     runs-on: ubuntu-latest
     steps:
-      - run echo "Welcome Godwin"
+      - run: echo "Welcome Godwin"
